@@ -5,13 +5,17 @@
             "languages": [
                 {
                     "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
+                    "name": "JavaScript"
                 },
                 {
                     "lang": "go",
                     "name": "Go"
-                }
+                },
+                {
+                    "lang": "java",
+                    "name": "Java",
+                    "default": true
+                }      
             ]
         }
     }

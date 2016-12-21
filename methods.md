@@ -25,6 +25,14 @@ console.log('My first method');
 ```go
 fmt.Println("My first method")
 ```
+{% sample lang="java" %}
+使用JavaScript 如何在控制台打印消息
+
+```java
+System.out.println("My first method");
+```
+
+
 
 {% common %}
 公共的，都将显示：无论使用什么语言打印的结果都将相同
