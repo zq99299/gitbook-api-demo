@@ -16,8 +16,7 @@
                     "name": "Java",
                     "default": true
                 }      
-            ],
-             "theme": "dark"
+            ]
         }
     }
 }
