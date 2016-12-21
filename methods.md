@@ -1,28 +1,33 @@
-# Defining Methods
+# 定义方法
 
-Methods allow you to smoothly display code examples in different languages.
+方法让您顺利显示不同语言的代码示例。
+
+
+
+
 
 {% method %}
-## My first method
+## 我的第一个方法
 
-My first method exposes how to print a message in JavaScript and Go.
+我的第一个方法暴露了如何在JavaScript和go的消息。
+
 
 {% sample lang="js" %}
-Here is how to print a message to `stdout` using JavaScript.
+使用JavaScript 如何在控制台打印消息
 
 ```js
 console.log('My first method');
 ```
 
 {% sample lang="go" %}
-Here is how to print a message to `stdout` using Go.
+怎么使用go语言打印消息
 
 ```go
 fmt.Println("My first method")
 ```
 
 {% common %}
-Whatever language you are using, the result will be the same.
+公共的，都将显示：无论使用什么语言打印的结果都将相同
 
 ```bash
 $ My first method
